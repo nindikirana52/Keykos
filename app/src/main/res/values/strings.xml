@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KeyKos</string>
+    <string name="register_pemilik_toko">Register Pemilik Toko</string>
+    <string name="register_pemilik_kos">Register Pemilik Kos</string>
+    <string name="register_penghuni_kos">Register Penghuni Kos</string>
+</resources>
