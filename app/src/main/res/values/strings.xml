@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">KeyKos</string>
-    <string name="register_pemilik_toko">Register Pemilik Toko</string>
-    <string name="register_pemilik_kos">Register Pemilik Kos</string>
-    <string name="register_penghuni_kos">Register Penghuni Kos</string>
+    <string name="register_pemilik_toko">Pemilik Toko</string>
+    <string name="register_pemilik_kos">Pemilik Kos</string>
+    <string name="register_penghuni_kos">Penghuni Kos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

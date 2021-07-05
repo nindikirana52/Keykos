@@ -13,27 +13,24 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Daftar sebagai : "
-        android:textSize="24sp"
-        android:textStyle="bold"/>
+        android:textSize="18sp"/>
 
     <Button
         android:id="@+id/btnRegPenghuni"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="8dp"
         android:text="@string/register_penghuni_kos"/>
 
     <Button
         android:id="@+id/btnRegPemilikKos"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:text="@string/register_pemilik_kos" />
 
     <Button
         android:id="@+id/btnRegPemilikToko"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         android:text="@string/register_pemilik_toko" />
 </LinearLayout>
